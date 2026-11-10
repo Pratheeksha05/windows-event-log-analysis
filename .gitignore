@@ -1,0 +1,13 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Original Windows event log files
+*.evtx
+
+# Exported XML logs (may contain personal information)
+*.xml
+
+# Generated reports (may contain personal information)
+security_report.csv
+brute_force_alerts.csv

@@ -78,7 +78,7 @@ The collected Windows Security Event Logs produced the following results:
 
 ### Failed Logon Analysis
 
-- **Username:** HP
+- **Username:** [redacted local account]
 - **Source IP:** 127.0.0.1
 - **Logon Type:** Interactive (Type 2)
 - **Failure Status:** 0xC000006D
